@@ -5,7 +5,7 @@ name = "Reference Scale"
 tagline = "Spawn 2D scale references via point-and-click"
 maintainer = "Your Name <your@email.com>"
 type = "add-on"
-url = "https://extensions.blender.org"
+url = "https://github.com/micahganske/Reference-Scale"
 blender_version_min = "4.2.0"
 license = [
     "SPDX:GPL-3.0-or-later"
